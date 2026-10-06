@@ -46,7 +46,6 @@ System design, building resilient APIs, frontend performance, developer tooling,
 ---
 
 ## ⚡ Fun Fact
-I love turning tricky bugs into learning stories and enjoy.
 
 ---
 ## Explorations
