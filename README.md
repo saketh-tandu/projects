@@ -49,3 +49,6 @@ System design, building resilient APIs, frontend performance, developer tooling,
 I love turning tricky bugs into learning stories and enjoy.
 
 ---
+## Explorations
+I am loving the journey of exploring the new AI advancements
+---
